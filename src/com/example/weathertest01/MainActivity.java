@@ -11,8 +11,15 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * 
+ * ÐÞ¸Ä
+ * @author samsung
+ *
+ */
 public class MainActivity extends Activity {
 
+	
 	private TextView tv_show;
 	private StringBuilder sb;
 	protected static final int FAILTURE = 0;	
